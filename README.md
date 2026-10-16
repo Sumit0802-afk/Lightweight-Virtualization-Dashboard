@@ -2,6 +2,32 @@
 
 A React + Vite dashboard for an Operating Systems presentation on Lightweight Virtualization, styled as a premium red/black cyber command center — Overview command-center hero with sparkline metrics, container management, architecture and namespace explorers, resource (cgroups) controls, a dual lifecycle simulator, a VM comparison, a security checklist, a knowledge quiz, and a full-screen Presentation Mode.
 
+## Demo
+
+### Overview — System Command Center
+![Overview](docs/screenshots/overview.jpg)
+
+### Containers
+![Containers](docs/screenshots/containers.jpg)
+
+### Architecture Explorer
+![Architecture Explorer](docs/screenshots/architecture.jpg)
+
+### Resource Management
+![Resource Management](docs/screenshots/resources.jpg)
+
+### Container Lifecycle (PPT stepper + live state simulator)
+![Container Lifecycle](docs/screenshots/lifecycle.jpg)
+
+### Security Center
+![Security Center](docs/screenshots/security.jpg)
+
+### Quiz & Knowledge Check
+![Quiz](docs/screenshots/quiz.jpg)
+
+### Presentation Mode
+![Presentation Mode](docs/screenshots/presentation.jpg)
+
 ## Run locally
 
 ```bash
